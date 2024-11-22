@@ -1,4 +1,4 @@
-var video;
+var video; //video element
 
 window.addEventListener("load", function () {
     console.log("Page loaded");
